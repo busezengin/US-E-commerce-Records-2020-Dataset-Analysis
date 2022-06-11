@@ -9,3 +9,6 @@ Project Colab link: https://colab.research.google.com/github/busezengin/US-E-com
 
 I used Python language and sqlite3 database while doing this project. I used the plotly express library in Python for my visualizations.
 
+When you open the Colab link and hover over the visualizations with the mouse, you can view them as shown in the following gif.
+
+![gif](https://user-images.githubusercontent.com/50071318/173193933-6a69d997-eab0-4e81-aa74-2fc595d23c7d.gif)
