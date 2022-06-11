@@ -7,7 +7,7 @@ Since I made this project on Google Colab, you can directly click on the Colab l
 
 Project Colab link: https://colab.research.google.com/github/busezengin/US-E-commerce-Records-2020-Dataset-Analysis/blob/main/Capstone_Project_Buse_Zengin.ipynb
 
-I used Python language and sqlite3 database while doing this project. I used the plotly express library in Python for my visualizations.
+I used Python language and sqlite3 database while doing this project. I used the Plotly Express library in Python for my visualizations.
 
 When you open the Colab link and hover over the visualizations with the mouse, you can view them as shown in the following gif.
 
